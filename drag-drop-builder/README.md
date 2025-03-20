@@ -16,9 +16,15 @@ This project is a **React-based drag-and-drop website builder** that allows user
 
 ## Architecture  
 
-### 1. Components Structure  
-/src │── components │ ├── Canvas.jsx # Renders the draggable elements │ ├── ElementForm.jsx # Handles element editing │── App.jsx # Main entry point managing state │── App.css # Styling for layout and responsiveness
-
+### 1. Components Structure 
+```sh
+/src
+│── components
+│   ├── Canvas.jsx # Renders the draggable elements
+│   ├── ElementForm.jsx # Handles element editing
+│── App.jsx # Main entry point managing state
+│── App.css # Styling for layout and responsiveness
+```
 
 ### 2. Tools & Libraries Used  
 - **React** – Component-based UI framework.  
